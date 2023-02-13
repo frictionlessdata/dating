@@ -1,4 +1,4 @@
-# Most popular topics
+# Most Popular Topics
 
 ```json chart
 {

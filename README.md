@@ -2,7 +2,7 @@
 
 Welcome to the Frictionless Dating project!
 
-## Data Collection
+## Collected Data
 
 ```yaml table
 data: data/topics.csv

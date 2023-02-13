@@ -1,4 +1,4 @@
-# Shared interests
+# Shared Interests
 
 ```json chart
 {
