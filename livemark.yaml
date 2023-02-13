@@ -1,0 +1,25 @@
+brand:
+  text: Frictionless Dating
+about:
+  text: Data helps people to make friends!
+github:
+  user: frictionlessdata
+  repo: frictionless-dating
+links:
+  items:
+    - name: Open Knowledge
+      path: https://okfn.org
+    - name: Frictionless
+      path: https://frictionlessdata.io
+    - name: Support
+      path: https://join.slack.com/t/frictionlessdata/shared_invite/zt-17kpbffnm-tRfDW_wJgOw8tJVLvZTrBg
+pages:
+  items:
+    - path: index
+      name: Introduction
+      from: README.md
+    - path: pages/interests
+      name: Interests
+    - path: pages/popularity
+      name: Popularity
+    - path: pages/contributing
